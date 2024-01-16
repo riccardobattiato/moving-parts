@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://movingparts.dev/",
   author: "Riccardo",
-  desc: "A product-minded developer's perspective on technology",
+  desc: "I'm Riccardo, a software engineer from Italy. I write about anything that sparks my curiosity, while trying to give a product-minded perspective on technology.",
   title: "moving parts",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
