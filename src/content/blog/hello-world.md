@@ -1,6 +1,5 @@
 ---
-author: Riccardo Battiato
-pubDatetime: 2024-01-16T22:02:00Z
+pubDatetime: 2024-01-16T21:41:10.316Z
 title: Hello World!
 slug: hello-world
 featured: false
