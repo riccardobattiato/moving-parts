@@ -54,6 +54,8 @@ module.exports = {
         transparent: "transparent",
       },
       fontFamily: {
+        sans: ["Nunito", "sans-serif"],
+        slab: ["Museo Slab", "monospace"],
         mono: ["IBM Plex Mono", "monospace"],
       },
 
