@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Riccardo",
   desc: "I'm Riccardo, a software engineer from Italy. I write about anything that sparks my curiosity, while trying to give a product-minded perspective on technology.",
   title: "moving parts",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "moving-parts-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
