@@ -32,7 +32,7 @@ A team project is a common struggle to create, fix, innovate, and everyone is be
 
 Numerous, hidden social dynamics are at play even when only brainstorming the tech stack for a new project together. Your opinion and your leadership will be perceived as more worth listening and considering if your team respects you and your expertise. You could impose yourself with authority — after all, you are the leader — but everything would become worse because of it.
 
-Just as you learn to trust someone who tends to solve problems rather than to cause them, your teammates will trust you prove capable to solve their problems and be effectively helpful to them.
+Just as you learn to trust someone who tends to solve problems rather than to cause them, your teammates will trust you if you prove capable to solve their problems and to be effectively helpful to them.
 
 ## People prevail over process — for better or for worse
 
