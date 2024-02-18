@@ -10,6 +10,9 @@ tags:
 description: While practicing on Codewars, I've stumbled upon a problem that had me thinking for days. From the first-attempt, ridiculously inefficient solution up to "discovering" Kadane's algorithm, the maximum subarray problem has been one of the funniest challenges I've encountered so far.
 ---
 
+## Table of contents
+
+## The maximum subarray problem
 I've recently decided to improve my coding skills by practicing regularly on [Codewars](https://www.codewars.com/), a coding challenge website similar to LeetCode. After some quite trivial problems, I stumbled upon an interesting one: the [*maximum subarray problem*](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c). Here's its statement:
 
 > The maximum sum subarray problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers...
