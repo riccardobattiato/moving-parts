@@ -14,7 +14,7 @@ description: By default, GraphQL doesn't come with a way to work with dates and 
 ## Table of contents
 
 ## Scalar types in GraphQL
-[GraphQL](https://graphql.org/) is a powerful query language which comes with a full-fledged [type system](https://graphql.org/learn/schema/#type-system), enforcing the precision that distinguishes it from REST and improves [some of its problems](https://nordicapis.com/what-are-over-fetching-and-under-fetching/). **However, GraphQL doesn't support native date types.** [Scalar types](https://graphql.org/learn/schema/#scalar-types) -- which we can think of as the primitive types of most programming languages -- only support numbers, strings, booleans and a special ID type.
+[GraphQL](https://graphql.org/) is a powerful query language which comes with a full-fledged [type system](https://graphql.org/learn/schema/#type-system), enforcing the precision that distinguishes it from REST and improves on [some of its problems](https://nordicapis.com/what-are-over-fetching-and-under-fetching/). **However, GraphQL doesn't natively support date types.** [Scalar types](https://graphql.org/learn/schema/#scalar-types) -- which we can think of as the primitive types of most programming languages -- only support numbers, strings, booleans and a special ID type.
 
 Instead, developers are invited to define their own **custom scalar types** in order to manage their implementation as they wish. Let's suppose you want to add a simple `Date` type to your schema that works in a similar way to [JavaScript's Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) -- which represents a single moment in time. What you'd need to do is to:
 
@@ -59,17 +59,17 @@ const resolvers = {
     name: "Date",
     description: "A ISO 8601 compliant datetime value",
     parseValue(value) {
-      return new Date(value as string); // value from the client
+      return new Date(value); // from incoming JSON string to node.js Date object
     },
-    parseLiteral(ast) {
+    parseLiteral(ast) { // abstract syntax tree of query string, see explanation below
       if (ast.kind !== Kind.STRING) {
         return null; // should be an error, handle as you please
       }
-      const { value } = ast; // value from the client
+      const { value } = ast;
       return new Date(value);
     },
     serialize(value) {
-      return value.toISOString(); // value sent to the client
+      return value.toISOString(); // from node.js Date object to outgoing JSON string
     },
   }),
 };
