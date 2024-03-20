@@ -16,30 +16,42 @@ description: It's easy to say that in order to have a well-functioning team that
 ## The most common advice
 Yesterday I stumbled upon an [interesting discussion]((https://www.reddit.com/r/webdev/comments/1bh5rrl/how_do_you_manage_a_team_of_developers/)) on Reddit: someone was asking for advice about managing a team of developers. [Many](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvbuugp/) [answers](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvcf2sd/) suggested that the most important thing is that you hire the "right" people. However, I feel like this sentence, although shared by many, could have different meanings for each of us.
 
-The fact is, I take the sentence "hire the right people" *literally*. You're hiring not only a developer, a teammate, a professional -- you're asking a person to come work with/for you. When I say "hire the right **_people_**" I mean a few things that are mostly summarized by "hire the right *human beings*".
+When I say you should hire the right people, what I really mean is **you should hire someone you can _trust_**. There are a few key areas I prioritize most when trying to understand if I'd [trust someone](https://www.fearlessculture.design/blog-posts/control-less-trust-more) with my team's work:
+1. Their judgement;
+2. Their responsibility;
+3. Their growth process.
 
-Here are some of the traits I try to look for when I'm interviewing someone.
+## Judgement, or thought process
+> Before you code, think. Before you write, read. Before you speak, listen. Before you comment, reflect. Before you release, test.
 
-## Independence of thought
-The most important thing I try to understand when meeting a potential hire is their degree of **autonomous reasoning** -- the ability to think for oneself -- and **critical thinking**. You can typically grasp this from a simple chat about anything non-trivial, like a problem they solved or something new they've learned.
+--Addy Osmani <sup>[1](https://www.goodreads.com/quotes/679739-before-you-code-think-before-you-write-read-before-you)</sup>
 
-More often than not, a good sign of original thinking is the habit of knowing the _whys_ behind the many _how tos_ any skilled person may already master.
+The most important thing I try to grasp when looking for someone to work with is their **thought process**. While [judgment](https://nav.al/judgment) and thought process are two different things, I tend to consider them two sides of the same coin -- good judgment is the result of methodical, flexible thought process applied to one's own experience.
 
-A skilled person may solve known problems easily and learn how to solve unknown ones. However, **an original thinker will innovate** and bring true value to the table.
+Generally speaking, good thought process means someone is comfortable both in the **analysis** of a new problem or concept -- in order to gradually build a solid _understanding_ -- and the **synthesis** of an answer or an original solution.
 
+One of the signs of an elegant thought process is usually **the propensity to know the _whys_ behind the _how tos_** that generally constitute the expertise of a competent, skillful person. Ultimately, good thought process and judgement will make it easier for you to [trust someone enough](/posts/what-i-learned-about-management#trust-is-a-two-way-street) to [let them do their job](/posts/what-i-learned-about-management##modulating-your-absence).
 
 ## Responsibility
-[A mentality of ownership](https://www.fearlessculture.design/blog-posts/how-to-create-an-ownership-mentality-within-your-team) is one of the key ingredients to having a positive team experience producing quality results and, most importantly, quality working life. It will be easier to build one when the people working with you all share some degree of **responsibility regarding their own work** -- especially when it comes to their own **learning**. I also personally like when people are responsible and feel like they are the ones in charge of their own lives, despite what life may throw at them.
+> Taking ownership of a project doesn't mean you own it – it means you care about your role and the overall outcome. Taking ownership is a commitment. You feel responsible to yourself, not just others.
 
-Responsibility can be often seen when discussing a person's choices, allowing you to glimpse into their **decision-making process** while trying to grasp their tendency to *moving actively* versus *reacting passively* in the context of their learning path, a project they've worked on, their company or their entire life.
+--Gustavo Razzetti <sup>[2](https://www.fearlessculture.design/blog-posts/how-to-create-an-ownership-mentality-within-your-team)</sup>
 
-Finally, a person who's responsible is [a person you can trust](/posts/what-i-learned-about-management#trust-is-a-two-way-street).
+While judgment is in my opinion the largest contributor to a person's decision-making process, **responsibility** is another important key element that will make the difference when working on any project. A responsible person is someone that will take a certain degree of **ownership of their own work**.
 
-## Growth mindset
-Last but not least, one of the most popular concepts in blogs and social media: **growth mindset**. A tricky one, since it's not that easy to tell when someone does truly possess it.
+Responsibility is often evident when discussing a person’s choices or evaluating their decision-making process. It shows if **they feel in control**, especially in the context of the classic _reactive versus proactive_ mindset. In my opinion, behaviors of reactivity or proactivity in someone only are _the result_ of their sense of responsibility and ownership of a project.
 
-In short, growth mindset boils down to one's **attitude towards failure**. To have a growth mindset means that in case of failure, the opportunity for learning is almost always clear; a growth-ready person is confident about their ability to learn from their mistakes and experience.
+Responsibility is the biggest contributor to trust, even when a person's judgement has not yet fully developed, maybe due to lack of experience.
 
-On the other hand, not having a growth mindset usually means that a person will **blame someone** for their failure -- others, or themselves. 
+## Growth process
+> Remember, always, that everything you know, and everything everyone knows, is only a model.
 
-People possessing a growth mindset will likely grow the most because they'll generally be more ready to learn.
+--Donella Meadows <sup>[3](https://www.goodreads.com/quotes/528565-remember-always-that-everything-you-know-and-everything-everyone-knows)</sup>
+
+Last but not least: growth. A person who shows a sincere interest to grow instantly has my curiosity, but one that has the mindset of the **perpetual learner** has my full attention.
+
+A person who's able to grow is someone who's able to constantly **question themselves and their ideas**, which is, in my opinion, the only real key to developing a true _"growth mindset"_ -- a term that has become so popular, but maybe is not so well understood.
+
+A person who is able to grow is someone you can trust with *your own growth*. You will discuss problems, solutions, projects, companies and always be sure that both of you will come away enriched by it.
+
+Speaking of mentality, there’s so much more at play when trying to hire the right people. Gustavo Razzetti, CEO of Fearless Culture, wrote an [interesting piece](https://www.fearlessculture.design/blog-posts/how-to-upgrade-your-mindset-for-success) which delves more into detail.
