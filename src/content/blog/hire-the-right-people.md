@@ -39,9 +39,9 @@ One of the signs of an elegant thought process is usually **the propensity to kn
 
 While judgment is in my opinion the largest contributor to a person's decision-making process, **responsibility** is another important key element that will make the difference when working on any project. A responsible person is someone that will take a certain degree of **ownership of their own work**.
 
-Responsibility is often evident when discussing a person’s choices or evaluating their decision-making process. It shows if **they feel in control**, especially in the context of the classic _reactive versus proactive_ mindset. In my opinion, behaviors of reactivity or proactivity in someone only are _the result_ of their sense of responsibility and ownership of a project.
+Responsibility is often evident when discussing a person’s choices or evaluating their decision-making process. It shows if **they typically feel in control** despite the circumstances, signaling a high degree of **autonomy**, especially in the context of the classic _reactive versus proactive_ mindset. In my opinion, behaviors of reactivity or proactivity in someone only are _the result_ of their sense of personal responsibility and ownership of a project.
 
-Responsibility is the biggest contributor to trust, even when a person's judgement has not yet fully developed, maybe due to lack of experience.
+Responsibility is the biggest contributor to trustworthiness, even when a person's judgement has not yet fully developed, maybe due to lack of experience.
 
 ## Growth process
 > Remember, always, that everything you know, and everything everyone knows, is only a model.
@@ -50,7 +50,7 @@ Responsibility is the biggest contributor to trust, even when a person's judgeme
 
 Last but not least: growth. A person who shows a sincere interest to grow instantly has my curiosity, but one that has the mindset of the **perpetual learner** has my full attention.
 
-A person who's able to grow is someone who's able to constantly **question themselves and their ideas**, which is, in my opinion, the only real key to developing a true _"growth mindset"_ -- a term that has become so popular, but maybe is not so well understood.
+A person who's able to grow is someone who's able to constantly **question themselves and their ideas**, which is, in my opinion, the only real key to developing a true _"growth mindset"_ -- a term that has become so popular, but may not be as well understood.
 
 A person who is able to grow is someone you can trust with *your own growth*. You will discuss problems, solutions, projects, companies and always be sure that both of you will come away enriched by it.
 
