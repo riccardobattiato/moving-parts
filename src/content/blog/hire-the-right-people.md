@@ -13,8 +13,8 @@ description: It's easy to say that in order to have a well-functioning team that
 
 ## Table of contents
 
-## The most common advice
-Yesterday I stumbled upon an [interesting discussion]((https://www.reddit.com/r/webdev/comments/1bh5rrl/how_do_you_manage_a_team_of_developers/)) on Reddit: someone was asking for advice about managing a team of developers. [Many](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvbuugp/) [answers](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvcf2sd/) suggested that the most important thing is that you hire the "right" people. However, I feel like this sentence, although shared by many, could have different meanings for each of us.
+## Introduction
+Yesterday I stumbled upon an [interesting discussion](https://www.reddit.com/r/webdev/comments/1bh5rrl/how_do_you_manage_a_team_of_developers/) on Reddit: someone was asking for advice about managing a team of developers. [Many](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvbuugp/) [answers](https://www.reddit.com/r/webdev/comments/1bh5rrl/comment/kvcf2sd/) suggested that the most important thing is that you hire the "right" people. However, I feel like this sentence, although shared by many, could have different meanings for each of us.
 
 When I say you should hire the right people, what I really mean is **you should hire someone you can _trust_**. There are a few key areas I prioritize most when trying to understand if I'd [trust someone](https://www.fearlessculture.design/blog-posts/control-less-trust-more) with my team's work:
 1. Their judgement;
