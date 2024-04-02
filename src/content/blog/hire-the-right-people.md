@@ -21,16 +21,16 @@ When I say you should hire the right people, what I really mean is **you should 
 2. Their responsibility;
 3. Their growth process.
 
-## Judgement, or thought process
+## Judgement and critical thinking
 > Before you code, think. Before you write, read. Before you speak, listen. Before you comment, reflect. Before you release, test.
 
 --Addy Osmani <sup>[1](https://www.goodreads.com/quotes/679739-before-you-code-think-before-you-write-read-before-you)</sup>
 
-The most important thing I try to grasp when looking for someone to work with is their **thought process**. While [judgment](https://nav.al/judgment) and thought process are two different things, I tend to consider them two sides of the same coin -- good judgment is the result of methodical, flexible thought process applied to one's own experience.
+The first thing I try to grasp when I'm interviewing someone is their propensity to **critical thinking**. Portrayed as one of the "most in-demand skills" nowadays by the [World Economic Forum](https://www.weforum.org/agenda/2019/10/improve-critical-thinking-why-important/), its very definition is somewhat [contested](https://plato.stanford.edu/entries/critical-thinking/). I'll let etymology do the work for us.
 
-Generally speaking, good thought process means someone is comfortable both in the **analysis** of a new problem or concept -- in order to gradually build a solid _understanding_ -- and the **synthesis** of an answer or an original solution.
+The word [critical](https://en.wiktionary.org/wiki/critical) comes from the ancient greek _kritikos_ — "able to make judgments" —  which in turn comes from the root [_krei-_](https://www.etymonline.com/word/*krei-) meaning to discriminate, distinguish: in fact, **critical thinking is all about telling one thing from another**. It's about questioning every assumption not because one likes to waste time, but because it's indeed essential in order to build a solid, true understanding. **Critical thinking is deconstructing a notion in order to really make it your own.**
 
-One of the signs of an elegant thought process is usually **the propensity to know the _whys_ behind the _how tos_** that generally constitute the expertise of a competent, skillful person. Ultimately, good thought process and judgement will make it easier for you to [trust someone enough](/posts/what-i-learned-about-management#trust-is-a-two-way-street) to [let them do their job](/posts/what-i-learned-about-management##modulating-your-absence).
+Critical thinkers will be helpful in many ways other than knowing how to use particular tools or getting the job done, and **will be most likely to bring innovation** into their domain of competence. **Critical thinkers are able to lead themselves** and are more likely to be able to lead others. Their understanding will be deeper, and it will be easier for you to [trust](/posts/what-i-learned-about-management#trust-is-a-two-way-street) their [judgment](https://nav.al/judgment).
 
 ## Responsibility
 > Taking ownership of a project doesn't mean you own it – it means you care about your role and the overall outcome. Taking ownership is a commitment. You feel responsible to yourself, not just others.
