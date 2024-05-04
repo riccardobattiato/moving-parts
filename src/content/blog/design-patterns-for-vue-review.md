@@ -5,6 +5,7 @@ featured: false
 draft: false
 tags:
   - development
+  - frontend
   - design-patterns
   - testing
   - vue
