@@ -30,7 +30,7 @@ The key to the solution is simple: **the same element which blends with the back
 ```css
 .blending-element {
   mix-blend-mode: difference;
-  backdrop-filter: contrast(100) grayscale(1);
+  backdrop-filter: grayscale(1) contrast(100); // be careful: the order matters!
   background-color: black;
 }
 ```
@@ -96,7 +96,7 @@ Now you can make your black and white backdrop appear, and it will have the same
   width: 6.875rem;
   clip-path: url(#clipping-shape);
   mix-blend-mode: difference;
-  backdrop-filter: contrast(100) grayscale(1);
+  backdrop-filter: grayscale(1) contrast(100); // be careful: the order matters!
 }
 ```
 
