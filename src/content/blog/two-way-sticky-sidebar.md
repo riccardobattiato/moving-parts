@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2025-08-05T17:39:01.632Z
+pubDatetime: 2025-08-05T19:39:01.632Z
 title: Dynamically sticking to opposite sides of the screen, with minimal JavaScript
 featured: false
 draft: false
